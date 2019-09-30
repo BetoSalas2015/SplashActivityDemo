@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Splash Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Splash Demo</string>
+    <string name="Activity">Aplicacion principal</string>
+    <string name="title_activity_second">Segunda Actividad</string>
+    <string name="action_settings">Settings</string>
+    <string name="Mensaje">Compartir Texto</string>
+    <string name="Hint">Texto a Compartir</string>
+    <string name="descrip">Esta actividad compartirá texto hacia otra app invocada implícitamente por un intent</string>
+    <string name="Compartir">Compartir!</string>
+</resources>
